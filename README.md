@@ -62,8 +62,8 @@ To build a simple yet effective portfolio builder that demonstrates:
 
 ## 👨‍💻 Author
 
-Piyush Jaiswal
-Lakshya
+Piyush Jaiswal, 
+Lakshya, 
 Prashant
 
 ---
