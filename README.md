@@ -20,7 +20,7 @@
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 PortPhoenix/
@@ -32,7 +32,7 @@ PortPhoenix/
 
 ---
 
-## 🔌 API Endpoints
+## API Endpoints
 
 | Method | Endpoint       | Description         |
 | ------ | -------------- | ------------------- |
@@ -42,7 +42,7 @@ PortPhoenix/
 
 ---
 
-## 🎯 Project Goal
+## Project Goal
 
 To build a simple yet effective portfolio builder that demonstrates:
 
@@ -52,7 +52,7 @@ To build a simple yet effective portfolio builder that demonstrates:
 
 ---
 
-## 📌 Future Improvements
+## Future Improvements
 
 * Drag & drop editor
 * Authentication system
@@ -60,10 +60,10 @@ To build a simple yet effective portfolio builder that demonstrates:
 
 ---
 
-## 👨‍💻 Author
+## Author
 
-Piyush Jaiswal, 
-Lakshya, 
-Prashant
+* Piyush Jaiswal
+* Lakshya
+* Prashant
 
 ---
